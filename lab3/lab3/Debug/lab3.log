@@ -1,0 +1,4 @@
+﻿  lab3.cpp
+c:\users\валера\desktop\университет\сп\labs\lab3\lab3\lab3.cpp(95): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab3.vcxproj -> C:\Users\Валера\Desktop\Университет\СП\Labs\lab3\Debug\lab3.exe
+  lab3.vcxproj -> C:\Users\Валера\Desktop\Университет\СП\Labs\lab3\Debug\lab3.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  lab6.cpp
+c:\users\валера\desktop\университет\сп\labs\lab6\lab6\lab6.cpp(107): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\валера\desktop\университет\сп\labs\lab6\lab6\lab6.cpp(108): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab6.vcxproj -> C:\Users\Валера\Desktop\Университет\СП\Labs\lab6\Debug\lab6.exe
+  lab6.vcxproj -> C:\Users\Валера\Desktop\Университет\СП\Labs\lab6\Debug\lab6.pdb (Full PDB)

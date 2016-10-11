@@ -1,0 +1,4 @@
+﻿  lab4.cpp
+c:\users\валера\desktop\университет\сп\labs\lab4\lab4\lab4.cpp(119): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab4.vcxproj -> C:\Users\Валера\Desktop\Университет\СП\Labs\lab4\Debug\lab4.exe
+  lab4.vcxproj -> C:\Users\Валера\Desktop\Университет\СП\Labs\lab4\Debug\lab4.pdb (Full PDB)

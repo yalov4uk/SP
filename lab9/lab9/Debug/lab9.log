@@ -1,0 +1,13 @@
+﻿  lab9.cpp
+c:\users\валера\desktop\университет\сп\labs\lab9\lab9\lab9.cpp(108): warning C4477: "swprintf": в строке форматирования "%s" требуется аргумент типа "wchar_t *", но вариативный аргумент "2" имеет тип "char **"
+c:\users\валера\desktop\университет\сп\labs\lab9\lab9\lab9.cpp(108): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note:  см. объявление "swprintf"
+c:\users\валера\desktop\университет\сп\labs\lab9\lab9\lab9.cpp(119): warning C4477: "swprintf": в строке форматирования "%s" требуется аргумент типа "wchar_t *", но вариативный аргумент "2" имеет тип "char **"
+c:\users\валера\desktop\университет\сп\labs\lab9\lab9\lab9.cpp(119): warning C4477: "swprintf": в строке форматирования "%s" требуется аргумент типа "wchar_t *", но вариативный аргумент "3" имеет тип "char *"
+  c:\users\валера\desktop\университет\сп\labs\lab9\lab9\lab9.cpp(119): note: рекомендуется использовать "%hs" в строке форматирования
+  c:\users\валера\desktop\университет\сп\labs\lab9\lab9\lab9.cpp(119): note: рекомендуется использовать "%Ts" в строке форматирования
+  c:\users\валера\desktop\университет\сп\labs\lab9\lab9\lab9.cpp(119): note: рекомендуется определить _CRT_STDIO_ISO_WIDE_SPECIFIERS, если требуется стандартная семантика C99
+c:\users\валера\desktop\университет\сп\labs\lab9\lab9\lab9.cpp(119): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note:  см. объявление "swprintf"
+  lab9.vcxproj -> C:\Users\Валера\Desktop\Университет\СП\Labs\lab9\Debug\lab9.exe
+  lab9.vcxproj -> C:\Users\Валера\Desktop\Университет\СП\Labs\lab9\Debug\lab9.pdb (Full PDB)
